@@ -3,10 +3,12 @@
 using namespace std;
 
 string Urodziny, Imieniny;
+string Urodziny, Imieniny;
 
 int main()
 {
-    cout << "Witam w programie sprawdzajacym wiedze z zakresu podstawowych informacji o rodzinie.." << endl;
+    cout<<"test"<<endl;
+    cout << "Witam w programie sprawdzajacym wiedze z zakresu podstawowych informacji o rodzinie..." << endl;
 
     cout << "Daty nalezy wpisywac w formacie DD.MM.YYYY wpisujac kropki miedzy znakami." << endl;
 
@@ -26,7 +28,7 @@ cout << "Podaj date urodzin Kamila:";
 
     cin >> Urodziny;
 
-    if (Urodziny=="20.07.1992") cout<< "BRAWO!!! :)";
+    if (Urodziny=="20.07.1992") cout<< "BRAWO!!!";
 
     else cout << "Niestety nie, poprawna data to: 20.07.1992";
 
