@@ -26,7 +26,7 @@ cout << "Podaj date urodzin Kamila:";
 
     cin >> Urodziny;
 
-    if (Urodziny=="20.07.1992") cout<< "BRAWO!!!";
+    if (Urodziny=="20.07.1992") cout<< "BRAWO!!! :)";
 
     else cout << "Niestety nie, poprawna data to: 20.07.1992";
 
