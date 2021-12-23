@@ -3,11 +3,10 @@
 using namespace std;
 
 string Urodziny, Imieniny;
-string Urodziny, Imieniny;
 
 int main()
 {
-    cout<<"test2"<<endl;
+
     cout << "Witam w programie sprawdzajacym wiedze z zakresu podstawowych informacji o rodzinie..." << endl;
 
     cout << "Daty nalezy wpisywac w formacie DD.MM.YYYY wpisujac kropki miedzy znakami." << endl;
